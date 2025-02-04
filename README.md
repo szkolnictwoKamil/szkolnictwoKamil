@@ -10,18 +10,6 @@ I'm a **Data Scientist** with 1.5 years of experience in **data analysis using P
 - **Good at:** R, VBA, Bash, M, DAX, T-SQL
 - **Worked with:** Snowflake, Power BI, Git (GitHub, Bitbucket), Docker, AWS, Linux OS, Sigma, MS Office
 
-### 🏆 Soft Skills
-
-- Problem-solving & attention to detail
-- Quick learning & adaptability
-- Communicative & well-organized
-- Presenting complex insights in a simple manner
-- Stakeholder management & collaboration
-
-### 📊 Interests
-
-I enjoy hitting the gym, spending time with friends or coding. I am particularly interested in **data analysis, especially music-related data.** I love uncovering trends and insights that tell a compelling story.
-
 ### 📂 My Projects
 
 My projects are ranging from **simple data analysis and classification** to **NLP**  and image recognition with the usage of neural networks. You can find my most notable projects listed below, pinned to my profile. 
