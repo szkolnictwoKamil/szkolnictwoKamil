@@ -2,7 +2,7 @@
 
 ### 🐿️ About Me
 
-I'm a **Data Scientist** with 1.5 years of experience in **data analysis using Python and SQL**. With a strong background in **Mathematics and Computer Science**, I specialize in  data visualization, storytelling, and making complex insights understandable. Passionate about uncovering patterns in data to drive business decisions and committed to delivering meaningful solutions that create an impact.
+I'm a **Data Scientist** with over 1.5 years of experience in **data analysis using Python and SQL**. With a strong background in **Mathematics and Computer Science**, I specialize in  data visualization, storytelling, and making complex insights understandable. Passionate about uncovering patterns in data to drive business decisions and committed to delivering meaningful solutions that create an impact.
 
 ### 🔧 Technical Skills
 
